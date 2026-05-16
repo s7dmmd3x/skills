@@ -9,3 +9,7 @@
 ### Security & responsible AI
 
 Have you discovered a vulnerability or have concerns about model output? Please e-mail **security@openai.com** and we will respond promptly.
+
+### Personal notes (fork-specific)
+
+> This is my personal fork for learning and experimentation. I'm not actively reviewing PRs here — please direct contributions to the [upstream repo](https://github.com/openai/skills) instead.
